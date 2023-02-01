@@ -1,4 +1,4 @@
 ---
-title: A Website
+title: Welcome to my blog
 ---
 
